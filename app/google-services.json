@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223187793536",
+    "project_id": "loginpractice-4c5d5",
+    "storage_bucket": "loginpractice-4c5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223187793536:android:f1ce047bb1632ff5ba5865",
+        "android_client_info": {
+          "package_name": "com.example.loginpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223187793536-4e4m40j7db1rke6stbt19d5ngfg8q74g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZd4iDRaQ9HOGMvgv4imRAbAUOrKEejMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223187793536-4e4m40j7db1rke6stbt19d5ngfg8q74g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
